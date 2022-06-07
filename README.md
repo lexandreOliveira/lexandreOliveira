@@ -2,7 +2,9 @@
 <div align="center">
   Hi guys, welcome to my repository! I'm <strong>Alexandre Oliveira</strong>👋<br>
   🔭 I’m currently working as a truck drive 🚛 and majoring in cyber security!👨‍🎓<br>
- 🌱 I’m currently learning development web and python 📖 🖥️ <hr>
+ 🌱 I’m currently learning development web and python! 📖 🖥️<br>
+ 💻 I love developing softwares, even being a beginner. If you want someone dedicated on your dev team, <strong>HIRE ME!!!</strong>
+<hr>
 </div>
 <div align="center">
   <a href="https://github.com/lexandreOliveira">
@@ -15,6 +17,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
-   
+
 
 
